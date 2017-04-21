@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape ("http://www.inkscape.org/") -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="617.34375"
+   id="svg1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="activity-bubble.svg"
+   sodipodi:version="0.32"
+   width="986.25"
+   version="1.1">
+  <metadata
+     id="metadata3044">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title></dc:title>
+        <dc:description />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li />
+            <rdf:li>callout</rdf:li>
+            <rdf:li>shape</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://www.openclipart.org">
+            <dc:title>John Cliff</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>John Cliff</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>John Cliff</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://web.resource.org/cc/PublicDomain" />
+        <dc:language>en</dc:language>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://web.resource.org/cc/PublicDomain">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3">
+    <linearGradient
+       id="linearGradient5273"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5275" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     bordercolor="#666666"
+     borderopacity="1.0"
+     id="base"
+     inkscape:cx="762.86351"
+     inkscape:cy="200.86361"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:window-height="744"
+     inkscape:window-width="1366"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:zoom="0.70710678"
+     pagecolor="#ffffff"
+     showborder="true"
+     showgrid="false"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <g
+     id="g623"
+     transform="translate(-70.2993,-210.85428)" />
+  <g
+     id="g3043"
+     transform="translate(890.625,-634.3125)">
+    <path
+       sodipodi:nodetypes="ssccscssss"
+       inkscape:connector-curvature="0"
+       style="font-size:12px;fill:none;stroke:#7d3a85;stroke-width:30;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path595"
+       d="m -368.52013,649.31383 c -247.92798,-1e-5 -449.12498,121.87533 -449.125,272.0625 0,81.53177 59.36924,154.68267 153.25,204.56247 -54.92428,55.883 -133.81686,95.5734 -224.0625,108.75 17.35052,1.2706 35.03385,1.9688 53.03125,1.9688 112.44665,-10e-5 213.7491,-25.6431 284.8125,-66.5938 55.68145,14.9965 117.26123,23.4063 182.09375,23.4063 247.92798,0 449.156249,-121.9067 449.156249,-272.09377 0,-51.13475 -23.326833,-98.98754 -63.881497,-139.86555 C -61.803227,702.32658 -205.00506,649.31384 -368.52013,649.31383 z" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text5279"
+       y="961.15588"
+       x="-583.06891"
+       style="font-size:140px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#7d3a85;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Comic Sans MS Bold"
+       xml:space="preserve"><tspan
+         style="font-size:140px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#7d3a85;fill-opacity:1;font-family:Comic Sans MS;-inkscape-font-specification:Comic Sans MS Bold"
+         y="961.15588"
+         x="-583.06891"
+         id="tspan5281"
+         sodipodi:role="line">Words</tspan></text>
+  </g>
+</svg>

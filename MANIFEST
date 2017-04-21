@@ -1,0 +1,14 @@
+COPYING
+README.txt
+MANIFEST
+TODO.txt
+config.ini
+setup.py
+activity.pyc
+activity/activity.info~
+activity/activity-bubble.svg
+activity/activity.info
+activity.py~
+po/Words.pot~
+po/Words.pot
+activity.py

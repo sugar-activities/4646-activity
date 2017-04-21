@@ -1,0 +1,3 @@
+Aparece la palabra
+aparecen las opciones
+Usuario selecciona la opcion
